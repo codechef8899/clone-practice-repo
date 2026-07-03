@@ -1,0 +1,1 @@
+Fork the project from owner, then clone it in your local git
